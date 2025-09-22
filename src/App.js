@@ -1,5 +1,4 @@
 import './App.css';
-import Counter from './components/Counter';
 import Effect from './components/Effect';
 
 
